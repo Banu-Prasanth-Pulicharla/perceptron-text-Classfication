@@ -18,5 +18,5 @@ c. Parameters for the script would be asked now. Please provide in below format 
    ```
    D:\data_TEMP\train\ham D:\data_TEMP\train\spam D:\data_TEMP\test\ham D:\data_TEMP\test\spam 0.01
    ```
-d. That's it! Output would show the accuracies for test data with and without stopwords.
+d. That's it! Output would show the accuracies for test data with and without stopwords.      
    (Epochs of 1 to 20 would be considered internally)
